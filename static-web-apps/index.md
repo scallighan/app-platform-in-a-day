@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Static Web Apps
+title: Azure Static Web Apps
 has_children: true
 ---
 # Static Web Apps

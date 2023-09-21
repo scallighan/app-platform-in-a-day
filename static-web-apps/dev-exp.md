@@ -1,5 +1,5 @@
 ---
-parent: Static Web Apps
+parent: Azure Static Web Apps
 title: Developer Experience
 nav_order: 1
 ---

@@ -1,5 +1,5 @@
 ---
-parent: Static Web Apps
+parent: Azure Static Web Apps
 title: Considerations
 nav_order: 3
 ---
