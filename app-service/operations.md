@@ -1,4 +1,5 @@
 ---
+parent: Azure App Service
 title: Operations
 nav_order: 2
 ---

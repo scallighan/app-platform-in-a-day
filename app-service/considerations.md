@@ -1,6 +1,7 @@
 ---
+parent: Azure App Service
 title: Considerations
-nav_order: 1
+nav_order: 3
 ---
 # Azure App Service | Considerations
 *— I have a web application resembling monolithic; I just want to run it and not manage any infrastructure.*
