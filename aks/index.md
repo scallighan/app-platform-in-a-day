@@ -1,4 +1,16 @@
+---
+layout: default
+title: Azure Kubernetes Service
+has_children: true
+---
 # Azure Kubernetes Service
+Managed Kubernetes Service for hosting containerized applications
+
+* Access, security, and monitoring
+* Built-in governance for compliance
+* Native CNCF project integrations
+* Secure access to the K8s control plane API
+
 
 * [Overview](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
 * [Github](https://github.com/Azure/AKS/)
