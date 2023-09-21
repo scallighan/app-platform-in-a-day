@@ -1,7 +1,8 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
+title: USFSI TS App Innovation App Platform In a Day 
+description: GitHub Pages for USFSI TS App Innovation App Platform In a Day
+remote_theme: just-the-docs/just-the-docs@v0.6.1
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
