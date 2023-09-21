@@ -1,3 +1,8 @@
+---
+layout: default
+title: Azure App Service
+has_children: true
+---
 # Azure App Service
 Fully managed platform for hosting web applications, mobile backends and restful APIs
 
