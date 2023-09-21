@@ -1,3 +1,8 @@
+---
+layout: default
+title: functions
+nav_exclude: true
+---
 # 10.7.5.0 - 10.7.5.255
 resource "azurerm_subnet" "functions" {
   name                 = "functions-subnet-eastus"

@@ -1,3 +1,8 @@
+---
+layout: default
+title: staticwebapp
+nav_exclude: true
+---
 # 10.7.6.0 - 10.7.6.255
 resource "azurerm_subnet" "staticwebapp" {
   name                 = "staticwebapp-subnet-eastus"

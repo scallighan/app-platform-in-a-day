@@ -1,3 +1,8 @@
+---
+layout: default
+title: appservice
+nav_exclude: true
+---
 # 10.7.4.0 - 10.7.4.255
 resource "azurerm_subnet" "appservice" {
   name                 = "appservice-subnet-eastus"

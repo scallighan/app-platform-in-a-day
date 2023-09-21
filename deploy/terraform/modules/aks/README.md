@@ -1,3 +1,8 @@
+---
+layout: default
+title: aks
+nav_exclude: true
+---
 # 10.7.2.0 - 10.7.3.255
 resource "azurerm_subnet" "aks" {
   name                 = "aks-subnet-eastus"

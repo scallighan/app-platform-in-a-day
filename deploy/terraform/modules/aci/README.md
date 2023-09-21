@@ -1,3 +1,8 @@
+---
+layout: default
+title: aci
+nav_exclude: true
+---
 # 10.7.1.0 - 10.7.1.255
 resource "azurerm_subnet" "aci" {
   name                 = "aci-subnet-eastus"
