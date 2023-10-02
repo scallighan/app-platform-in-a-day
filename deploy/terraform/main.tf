@@ -124,6 +124,7 @@ module "aca" {
   count = var.deploy_aca ? 1 : 0
   source = "./modules/aca"
 
+  name = local.name
   resource_group_name = azurerm_resource_group.rg.name
   location = local.loc_for_naming
   key_vault_uri = azurerm_key_vault.kv.vault_uri
